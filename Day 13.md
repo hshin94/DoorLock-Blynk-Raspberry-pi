@@ -1,5 +1,5 @@
 # Motion Detection Webcam Configuration 
-WConfig file should look like
+Config file should look like
 ```shell
 # Rename this distribution example file to motion.conf
 #
